@@ -1,6 +1,11 @@
 # Start Git
 Command for start git
 
+
+ > cd project_folder
+
+ > git init
+
 Clone Project
 
  > git clone https://url.git
@@ -8,9 +13,7 @@ Clone Project
  or Set a new remote
  
  > git remote add origin https://url.git
- 
- > cd project_folder
- 
+  
  > echo "#Project Name" >> README.md
  
  > echo ignore_folder >> .gitignore
